@@ -10,3 +10,4 @@ I am open to all suggestion, specially for automating the ```Captcha recognition
 
 ## Instructions
 
+Run the ```main.py``` file and enter the Aadhaar Number and the Captcha. Execute the file using the following command ```python main.py```
